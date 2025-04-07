@@ -1,9 +1,8 @@
 <?php
 // Menghubungkan ke file konfigurasi database
 require 'config/database.php';
-
-// Menghubungkan ke file session untuk memulai/melanjutkan session PHP
 require 'includes/session.php';
+require 'includes/functions.php';
 
 // Inisialisasi variabel error login
 $loginError = '';
