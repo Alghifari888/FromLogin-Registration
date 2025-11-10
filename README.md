@@ -5,11 +5,11 @@
 
 > *"Aku tidak berilmu; yang berilmu hanyalah DIA. Jika tampak ilmu dariku, itu hanyalah pantulan dari Cahaya-Nya."*
 
-## 🎥 Demo
-![Demo](./videoujicoba.gif)
-
 ## 📜 Deskripsi
 **Login & Registration V1** adalah proyek Login & Registration sederhana menggunakan PHP Native yang dirancang dengan struktur rapi dan memperhatikan keamanan dasar. Cocok untuk belajar atau membangun sistem autentikasi tanpa framework.
+
+## 🎥 Demo
+![Demo](./videoujicoba.gif)
 
 ## 🎯 Fitur Utama
 
